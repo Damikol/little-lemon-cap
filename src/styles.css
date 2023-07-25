@@ -1,0 +1,8 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr auto; /* Adjust as needed based on your design */
+    min-height: 100vh;
+  };
+  
+  /* Additional grid styling rules can be added as needed */
