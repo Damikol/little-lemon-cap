@@ -13,12 +13,12 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Link } from 'react-router-dom';
 import './Footer.css';
 import logoWhiteImage from './assets/logo-white.png';
-import pages from '../../utils/pages';
+import pages from '../../Utility/pages';
 
 const contacts = [
   { icon: faLocationDot, info: '678 Pisa Ave, Chicago, IL 60611', },
   { icon: faPhone, info: '(312) 593-2744', },
-  { icon: faEnvelope, info: 'customer@littlelemon.com', },
+  { icon: faEnvelope, info: 'customeremail@littlelemon.com', },
 ];
 
 const socials = [

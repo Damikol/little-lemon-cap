@@ -3,7 +3,7 @@ import bruschettaImage from './assets/bruschetta.jpg';
 import greekSaladImage from './assets/greek-salad.jpg';
 import lemonDessertImage from './assets/lemon-dessert.jpg';
 import './WeekSpecials.css';
-import pages from '../../../utils/pages';
+import pages from '../../../Utility/pages';
 import MealCard from './MealCard';
 
 const meals = [

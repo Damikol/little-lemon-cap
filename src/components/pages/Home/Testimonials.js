@@ -10,29 +10,34 @@ const customers = [
     fullName: 'Mary Jones',
     image: customer1Image,
     rating: [1, 1, 1, 1, 0.5],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `I visited this restaurant for a family celebration, 
+    and it exceeded all our expectations. The quality of the food, 
+    the warm atmosphere, and the personalized service made the occasion truly memorable.`,
   },
   {
     fullName: 'Antony Klifton',
     image: customer2Image,
     rating: [1, 1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `The ambiance of the restaurant was perfect for a cozy dinner. 
+    The flavors in each dish were so unique and mouthwatering. 
+    I'm already recommending this place to my friends!`,
   },
   {
     fullName: 'Tamika Jack',
     image: customer3Image,
     rating: [1, 1, 1, 1, 0.5],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `The service here was exceptional. 
+    Not only did they accommodate my dietary restrictions, 
+    but the chef also prepared a special dish just for me. 
+    I felt truly valued as a customer.`,
   },
   {
     fullName: 'Brandon W. Mings',
     image: customer4Image,
     rating: [1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `I'm blown away by the creativity of the menu. 
+    The fusion of flavors and presentation of each dish were unlike anything I've ever tasted. 
+    This restaurant is a hidden gem!`,
   },
 ];
 
